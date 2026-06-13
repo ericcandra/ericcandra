@@ -64,9 +64,9 @@ Passionate about building scalable, efficient, and user-centric web applications
 
 ## 📫 Let's Connect!
 
-- **Email**: [erick471173@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/eric-candra-09213b374](https://linkedin.com/in/ericcandra)
-- **Portfolio**: [https://portofolios-ericcandra.vercel.app/](https://your-portfolio-website.com)
+- **Email**: [erick471173@gmail.com](erick471173@gmail.com)
+- **LinkedIn**: [linkedin.com/in/eric-candra-09213b374](linkedin.com/in/eric-candra-09213b374)
+- **Portfolio**: [https://portofolios-ericcandra.vercel.app](https://portofolios-ericcandra.vercel.app)
 - **Location**: 📍 Palembang, South Sumatra, Indonesian
 
 ---
