@@ -34,12 +34,12 @@ Passionate about building scalable, efficient, and user-centric web applications
 ## 🏢 Professional Experience
 
 ### **Zero Animal Clinic**
-- **Role**: Web Developer
+- **Role**: Full Stack Web Developer
 - **Responsibility**: Developed and maintained web applications for veterinary clinic management
 - **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
 
 ### **PT. Gupo Petshop**
-- **Role**: Full-Stack Web Developer
+- **Role**: Full Stack Web Developer
 - **Responsibility**: Built complete web solutions for pet shop e-commerce platform
 - **Tech Stack**: HTML, CSS, JavaScript, TypeScript, PHP, Python, Database Design
 
